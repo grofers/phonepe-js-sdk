@@ -1,0 +1,19 @@
+{
+  "name": "phonepe-js-sdk",
+  "version": "1.0.0",
+  "description": "PhonePe's Your Store Public JS SDK",
+  "main": "bundle.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/grofers/phonepe-js-sdk.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/grofers/phonepe-js-sdk/issues"
+  },
+  "homepage": "https://github.com/grofers/phonepe-js-sdk#readme"
+}
